@@ -12,7 +12,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=["https://digi-agro.vercel.app",
                    "https://digi-agro-5ww9jx573-mukul-kumars-projects-381869bf.vercel.app",
-                   "agri-connect-8953.netlify.app"
+                   "agri-connect-89.netlify.app"
 ],
     allow_credentials=True,
     allow_methods=["*"],
